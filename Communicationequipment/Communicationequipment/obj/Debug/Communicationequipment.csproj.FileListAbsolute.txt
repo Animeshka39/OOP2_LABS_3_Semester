@@ -1,0 +1,10 @@
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\bin\Debug\Communicationequipment.exe.config
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\bin\Debug\Communicationequipment.exe
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\bin\Debug\Communicationequipment.pdb
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\obj\Debug\Communicationequipment.Properties.Resources.resources
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\obj\Debug\Communicationequipment.csproj.GenerateResource.cache
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\obj\Debug\Communicationequipment.csproj.CoreCompileInputs.cache
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\obj\Debug\Communicationequipment.exe
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\obj\Debug\Communicationequipment.pdb
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\obj\Debug\Communicationequipment.csproj.AssemblyReference.cache
+C:\Users\Kurikara\source\repos\Communicationequipment\Communicationequipment\obj\Debug\Communicationequipment.Form1.resources
