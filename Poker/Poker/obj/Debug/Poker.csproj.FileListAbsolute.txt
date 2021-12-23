@@ -1,0 +1,7 @@
+C:\Users\Kurikara\Desktop\PokerSimulator-master\Poker\bin\Debug\Poker.exe.config
+C:\Users\Kurikara\Desktop\PokerSimulator-master\Poker\bin\Debug\Poker.exe
+C:\Users\Kurikara\Desktop\PokerSimulator-master\Poker\bin\Debug\Poker.pdb
+C:\Users\Kurikara\Desktop\PokerSimulator-master\Poker\obj\Debug\Poker.csproj.AssemblyReference.cache
+C:\Users\Kurikara\Desktop\PokerSimulator-master\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Kurikara\Desktop\PokerSimulator-master\Poker\obj\Debug\Poker.exe
+C:\Users\Kurikara\Desktop\PokerSimulator-master\Poker\obj\Debug\Poker.pdb
